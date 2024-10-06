@@ -4,6 +4,6 @@ A group project designed for a university coursework, to implement a Morse Decod
 
 - I developed the code for detecting button presses and interpreting the Morse code signals.
 
-#Tech Stack
+Tech Stack
 - Raspberry Pi
 - C/C++ Programming
